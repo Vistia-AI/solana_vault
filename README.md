@@ -121,12 +121,13 @@ This project is open source. Please ensure you understand the security implicati
 
 - **🔐 DPA Wallet Integration**: Enhanced security with Decentralized Program Authority wallets for clearer and more secure operations
 - **🪙 Diverse Token Portfolios**: Support for multiple token types and cross-chain asset management
-- **🤖 Advanced Trading Bots**: Sophisticated automated trading algorithms with machine learning capabilities
+- **🤖 Trading Bot**: Auto trading bot with backtested TA Signal Trading Algorithm
 - **🌐 Web Client Platform**: Comprehensive web interface featuring:
   - Real-time trading analysis and performance metrics
   - Profit sharing visualization and distribution tracking
   - User dashboard with portfolio management
   - Historical performance analytics and reporting
+- **🤖 Advanced Trading algorithms**: Sophisticated automated trading algorithms with machine learning capabilities
 
 ## Disclaimer
 
