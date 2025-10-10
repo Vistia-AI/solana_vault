@@ -1,4 +1,4 @@
-# Solana Vault Contract v0.0.1
+# Solana Vault Contract
 
 An innovative Solana program that creates an automated trading vault system. Users deposit their tokens into a vault managed by sophisticated trading bot algorithms that work to generate profits through strategic trading. When the trading cycle completes, all depositors receive their proportional share of the enhanced token pool, including any profits generated.
 
