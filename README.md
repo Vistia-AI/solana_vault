@@ -33,7 +33,6 @@ An innovative Solana program that creates an automated trading vault system. Use
 **1. Vault Creation** 🏗️
 - Set up a new trading vault with specific parameters
 - Configure trading bot authority and supported tokens
-- Establish maximum participant limits
 
 **2. User Deposits** 💳
 - Users deposit their tokens into the vault
@@ -57,15 +56,6 @@ GHRvD6k1T8KWzmhTBd6BLvkkfrFSfnt1GkyMxspNSshW
 ```
 
 **Note**: Change this to your own program ID before deployment.
-
-## Built-in Safety Features
-
-The contract includes comprehensive protection against:
-- Invalid transactions and unauthorized access
-- Mathematical overflow and underflow errors
-- Exceeding maximum depositor limits
-- Insufficient funds scenarios
-- Unauthorized trading bot access
 
 ## Testing & Verification
 
@@ -119,9 +109,9 @@ This project is open source. Please ensure you understand the security implicati
 
 ## Future Roadmap
 
-- **🔐 DPA Wallet Integration**: Enhanced security with Decentralized Program Authority wallets for clearer and more secure operations
-- **🪙 Diverse Token Portfolios**: Support for multiple token types and cross-chain asset management
 - **🤖 Trading Bot**: Auto trading bot with backtested TA Signal Trading Algorithm
+- **🪙 Diverse Token Portfolios**: Support for multiple token types and cross-chain asset management
+- **🔐 DPA Wallet Integration**: Enhanced security with Decentralized Program Authority wallets for clearer and more secure operations
 - **🌐 Web Client Platform**: Comprehensive web interface featuring:
   - Real-time trading analysis and performance metrics
   - Profit sharing visualization and distribution tracking
